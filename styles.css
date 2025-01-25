@@ -9,10 +9,10 @@
 
     table {
         border-collapse: collapse;
-        width: 100%;
+        width: 100%
     }
         
-    table1, table2, table3, th, td {
+    table1, table2, table3, table4, table5, table6, table7, th, td {
         border: inset rgba(26, 46, 70, 1);
     }
 
